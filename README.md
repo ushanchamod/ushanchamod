@@ -1,11 +1,11 @@
-![MasterHead](https://github.com/ushanchamod/ushanchamod/blob/main/Blue%20and%20Red%20Modern%20Marketing%20Manager%20LinkedIn%20Article%20Cover%20Image%20(1).png?raw=true)
+<!-- ![MasterHead](https://github.com/ushanchamod/ushanchamod/blob/main/Blue%20and%20Red%20Modern%20Marketing%20Manager%20LinkedIn%20Article%20Cover%20Image%20(1).png?raw=true) -->
 <h1 align="center">Hello, I'm Ushan Chamod</h1>
 <h3 align="center">Full Stack Developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/ushanchamod/ushanchamod/blob/main/coding.gif?raw=true">
 
 - I’m currently learning **React JS & Express JS**
 
-- All of my projects are available at [https://chamod-bandara.web.app/](https://chamod-bandara.web.app/)
+- All of my website [https://chamod-bandara.web.app/](https://chamod-bandara.web.app/)
 
 - How to reach me **ushanchamodbandara@gmail.com**
 
