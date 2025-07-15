@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### A Full-Stack Developer by day ☀ and a Real-World Problem Solver by night 🌙
+#### I turn real problems into simple, powerful tech solutions
 
 Freelance Full-Stack Developer • Final-year Software Engineering Undergraduate at [The Open University of Sri Lanka](https://www.ou.ac.lk)  
 I build performance-first, user-centered web applications that solve real problems.
