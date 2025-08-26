@@ -15,8 +15,8 @@ I build performance-first, user-centered web applications that solve real proble
 
 ### 📫 Connect with Me
 
-- 📧 Email: [hello@ushan.me](mailto:hello@ushan.me)  
+- 📧 Email: <hello@ushan.me>
 - 🌐 Portfolio: [ushan.me](https://ushan.me)  
 - 💼 LinkedIn: [linkedin.com/in/ushanchamod](https://www.linkedin.com/in/ushanchamod)  
-- 🧑‍💻 GitHub: [github.com/ushanchamod](https://github.com/ushanchamod)  
+- 💻 GitHub: [github.com/ushanchamod](https://github.com/ushanchamod)  
 - 📱 Phone/WhatsApp: [+94 75 692 7857](tel:+94756927857)
